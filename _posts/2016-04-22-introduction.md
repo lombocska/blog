@@ -2,7 +2,7 @@
 title: Introduction
 published: true
 ---
-![img_test.png]({{site.baseurl}}/_posts/img_test.png)
+![leaf2.png]({{site.baseurl}}/_../img/img.posts/leaf2.png)
 
 
 ## Hi!

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: contact 
+title: Contact 
 ---
 
 Contact me using the form.

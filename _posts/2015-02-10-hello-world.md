@@ -1,6 +1,6 @@
 ---
 title: Introduction
-published: false
+published: true
 ---
 ![img_test.png]({{site.baseurl}}/_posts/img_test.png)
 

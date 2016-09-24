@@ -2,8 +2,8 @@
 title: Introduction
 published: true
 ---
-![leaf2.png]({{site.baseurl}}/img/img.posts/leaf2.png)
 
+![Introduction](/blog/img/img_posts/introduction.jpg "Introduction")
 
 ## Hi!
 

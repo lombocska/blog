@@ -1,4 +1,22 @@
 ---
-title: Hello World
+title: Introduction
+published: false
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem, corporis minima, animi eos perferendis omnis ut asperiores magni tempore. Repellendus aliquam saepe perspiciatis laborum, excepturi sit libero dignissimos debitis eaque itaque quos, accusantium sed amet tempora temporibus perferendis possimus, quisquam minus fuga! Laudantium, tenetur, consectetur! Quas itaque hic consequatur accusamus consectetur, quia odio eos amet quasi pariatur! Ratione, similique.
+![img_test.png]({{site.baseurl}}/_posts/img_test.png)
+
+
+## Hi!
+
+This blog was estabilished to encourage other women (or girls) to choose programming as a profession.
+
+### Some words about me
+
+In this semester, I am writing my thesis and I'm going to graduate as a civil engineer in Budapest, at BME. Recently, I had an opportunity to be admitted to the programming school, called Codecool. It started this Monday with an orientation week. My friends and my relatives look me completely goofy, because I choose "code" instead of the MSc at BME.
+
+But now, I decided to invest energy into studying programming. :)
+
+So, let's go back to the beginning, why to start a blog. I am planning to share all my experiences with the learning process and every difficulty that arises during programming and with overcoming them right from the start.
+
+I'll write short and simple paragraphs about how I hit an obstacle and I'll write long paragraphs with detailed description about my current studies and the sources.
+
+I have choosen the Python for my first programming language. The reason why I opted for the Codecool that, they begin the course with it according to the curriculum.

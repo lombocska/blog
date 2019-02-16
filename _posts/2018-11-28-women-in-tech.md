@@ -31,10 +31,20 @@ Poor me.... :)
 GLYPTOTEKET
 
 
-![glyptoteket](/blog/img/img_posts/glyptoteket.png "glyptoteket")
+![glyptoteket](/blog/img/img_posts/glyptoteket.jpg "glyptoteket")
+
+
+Beautiful Tivoli
 
 
  
+![tivoli](/blog/img/img_posts/tivoli.jpg "tivoli")
+
+
+And the mesmerizing wood-doll
+
+![doll](/blog/img/img_posts/doll.jpg "doll")
+
 
 
 

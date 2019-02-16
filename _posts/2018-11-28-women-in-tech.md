@@ -34,6 +34,9 @@ GLYPTOTEKET
 ![glyptoteket](/blog/img/img_posts/glyptoteket.jpg "glyptoteket")
 
 
+![glyptoteket2](/blog/img/img_posts/glyptoteket_2.jpg "glyptoteket2")
+
+
 Beautiful Tivoli
 
 

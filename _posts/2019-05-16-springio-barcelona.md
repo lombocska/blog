@@ -31,7 +31,7 @@ I will try to write a post about [Falcon.io life](https://www.linkedin.com/compa
 
 Bye! :)
 
-P.S: {We are hiring!!!](https://www.linkedin.com/company/falconio/jobs/)
+P.S: [We are hiring!!!](https://www.linkedin.com/company/falconio/jobs/)
 
 
 

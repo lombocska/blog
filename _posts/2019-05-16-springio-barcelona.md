@@ -19,7 +19,7 @@ impeccable and valuable.
 
 
 
-I can recommend to watch the [Youtube channel of Spring I/O](https://www.youtube.com/channel/UCLMPXsvSrhNPN3i9h-u8PYg/videos) to learn a lot form it.  
+I can recommend to watch the [Youtube channel of Spring I/O](https://www.youtube.com/channel/UCLMPXsvSrhNPN3i9h-u8PYg/videos) to learn a lot from it.  
 
 
 

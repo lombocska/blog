@@ -8,7 +8,7 @@ published: true
 I had the luck to be part of the European Women in Tech Conference in Amsterdam organized since 2016. 
 This conference was rather for meeting other like-minded women, than picking up new useful knowledge or going deeper in a known topic.
 
-Due to that fact I was surprised and a bit disappointed. The other thing that I have to say honestly, that I was tongue-tide at the
+Due to that fact I was surprised and a bit disappointed at the same time. The other thing that I have to say honestly, that I was tongue-tide at the
 beginning of the first day since I always use English in the written form, but speech. As usual, I was full of beans, so
 my muteness disappeared soon. :) 
 
@@ -19,7 +19,7 @@ At the end of the first day there was only one hour to go out and seek for some 
 
 
 To cut a long story short, I am quite grateful for the opportunity to my [company](https://www.falcon.io/) to support
-events like this and leave my to be myself freely.
+events like this and pull out all the stops.
 
 
 Funny fact, that from Amsterdam I couldn't come back home since I "had" to go to the Falcon XMas party to Copenhagen. 

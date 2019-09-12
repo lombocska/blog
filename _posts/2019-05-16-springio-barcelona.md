@@ -17,7 +17,7 @@ His speech about Hexagonal Architecture was really impressive and valuable.
 AFAIK Josh Long covered a lot of ground and was really quick, understandable and motivating.
 
 3. The third place goes to [Spring Cloud Contract session from Billy Conrado](https://www.youtube.com/watch?v=DrpY3V-O4lE). 
-He absolutely hits the nail on the head.
+He absolutely hit the nail on the head.
 
 
 
